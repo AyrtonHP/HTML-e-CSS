@@ -1,3 +1,10 @@
-h2{
-    background-color: blue; color: white;
+* {
+    height: 100%;
+}
+
+body{
+    text-align: center;
+    background-image: radial-gradient(circle, #2d9ae7 10%, #823ccd 40%, #c032a2 20%, 
+    #d83083 , #f0693a, #fed77b  );
+    background-attachment: fixed;
 }
