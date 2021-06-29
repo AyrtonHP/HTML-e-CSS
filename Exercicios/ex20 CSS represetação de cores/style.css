@@ -4,7 +4,7 @@
 
 body{
     text-align: center;
-    background-image: radial-gradient(circle, #2d9ae7 10%, #823ccd 40%, #c032a2 20%, 
+    background-image: linear-gradient(10deg, #2d9ae7, #823ccd, 
     #d83083 , #f0693a, #fed77b  );
     background-attachment: fixed;
 }

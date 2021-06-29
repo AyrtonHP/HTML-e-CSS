@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+*{
+    font-size:1em;
+}
+
+
+h1{
+    font-family: 'Work Sans''Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+
+    font: italic bolder 3em 'Wordk Sans'
+}
